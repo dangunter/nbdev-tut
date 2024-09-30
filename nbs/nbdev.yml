@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-tut"
+  site-url: "https://dangunter.github.io/nbdev-tut"
+  description: "For trying out nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/dangunter/nbdev-tut"
